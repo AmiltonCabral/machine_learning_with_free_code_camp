@@ -1,2 +1,5 @@
-# machine_learning_with_free_code_camp
-Here are my personal projects that I made with what I learned in the freeCodeCamp
+# Machine Learning with freeCodeCamp
+In this repository I will put in practice everything that I learn in freeCodeCamp about Machile Learning. I still did not finished the course.
+
+#
+Click [here](https://www.freecodecamp.org/learn/machine-learning-with-python/) and find the course.
